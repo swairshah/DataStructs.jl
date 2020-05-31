@@ -3,6 +3,9 @@ uuid = "4d6bedd1-32c7-4f16-b4c7-0f0d8781a3a8"
 authors = ["Swair Shah"]
 version = "0.1.0"
 
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1"
 
