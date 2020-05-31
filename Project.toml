@@ -1,0 +1,13 @@
+name = "DataStructs"
+uuid = "4d6bedd1-32c7-4f16-b4c7-0f0d8781a3a8"
+authors = ["Swair Shah"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
